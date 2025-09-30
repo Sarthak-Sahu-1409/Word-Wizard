@@ -29,6 +29,7 @@ pip3 install customtkinter python-docx pypdf docx2pdf
 # On Linux, install LibreOffice if you want docx→pdf conversion support.
 python3 app.py
 ```
+## App Preview
 
 ![App Preview](App%20Preview.png "App Preview Screenshot")
 
