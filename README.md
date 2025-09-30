@@ -30,6 +30,8 @@ pip3 install customtkinter python-docx pypdf docx2pdf
 python3 app.py
 ```
 
+![App Preview](App%20Preview.png "App Preview Screenshot")
+
 ## Key Features
 
 1. **Live connect to active Word document (Windows only):** Detects and uses the active MS Word document as the base for appendices.  
